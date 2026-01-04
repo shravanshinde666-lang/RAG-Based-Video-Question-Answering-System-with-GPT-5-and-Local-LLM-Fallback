@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large generated data
+audios/
+videos/
+transcripts/
+chunks/
+embeddings/
+
+# Model / vector files
+*.pkl
+*.pt
+*.bin
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
