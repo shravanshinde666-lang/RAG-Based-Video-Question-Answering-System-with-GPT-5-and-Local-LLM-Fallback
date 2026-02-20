@@ -1,10 +1,10 @@
 🎥 RAG-Based Video Question Answering System
-with GPT-5 and Local LLM Fallback
+with GPT-5 and Local LLM Fallback   
 
 A Retrieval-Augmented Generation (RAG) system that allows users to ask natural language questions over video content.
 The system transcribes videos, creates embeddings, performs semantic search, and generates accurate answers using GPT-5, with an automatic local LLM fallback when API quota is unavailable.
 
-🚀 Features
+🚀 Features:-
 
 🎧 Speech-to-Text using OpenAI Whisper
 
